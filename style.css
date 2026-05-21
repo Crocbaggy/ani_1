@@ -33,7 +33,7 @@
 
 .ad-text {
   margin: 0 0 20px 0;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.4;
   opacity: 0;
   animation: textAnimation 2.5s ease-in forwards;
